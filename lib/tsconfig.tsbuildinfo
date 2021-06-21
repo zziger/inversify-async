@@ -1,0 +1,857 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "signature": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "signature": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "signature": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "signature": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../src/constants/metadata_keys.ts": {
+        "version": "e8f279a39d4609b0621a61354b9522388894a677a91b17ddb21dbab0c9a6e864",
+        "signature": "5e013edc251a67fde7d02739971aa24ee1033f88dc66e19cb56c8be76fd71933",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/factory_type.ts": {
+        "version": "c699d508b07335249fd5a438ce676b85843ef8fdf09453d0546d28952cf1e512",
+        "signature": "c0965f8bbe702ee27720ef6069714ec008fd3ddc37c2774b08284fe9d833e945",
+        "affectsGlobalScope": false
+      },
+      "../src/interfaces/interfaces.ts": {
+        "version": "da359f4f3d22cab7cd80f7f55ae16ee629f459a6b0020a5c6b2ca287062cc1d5",
+        "signature": "6f7f04459fc491d5589485385d3fd6de39eee1c0f5c4817ef1ceb9cb59df4977",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/literal_types.ts": {
+        "version": "fbfbfaf56c30dacb0e5f8c1f0002056f821ec40e6772d186c907a51d0d477134",
+        "signature": "dd38cb08d55b3c8c00fab8ed7d7cb9d9ee19d873d7c0558c5e7c99d2bd10e589",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/id.ts": {
+        "version": "9d92c0642ca5422ccd029a80827a5879ec31e2aee23245bd9a251f3190d9ff97",
+        "signature": "dbde6506d508204913443e8c8dfd736f68f0ba9f05a1055fe591eb6eda6fa0b0",
+        "affectsGlobalScope": false
+      },
+      "../src/bindings/binding.ts": {
+        "version": "80ac540bc484c7576067ada5ad2a8a51f3fc5732d02f9754604f579a8579de1c",
+        "signature": "b038b74f92055d995471e1bd3ed357614ff0865094f247756654fd814e8849f0",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/error_msgs.ts": {
+        "version": "e27113fc677dfd0b1a03821c9804b75844e28cfa3647dbfc5a1dfe5859460e1c",
+        "signature": "55196e9e6c4a43097013b4addc9a1ae4fa64a72c3844bac47d2ac28a8a70a487",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/metadata_reader.ts": {
+        "version": "a1688214c30476bffb204024efa3862404e222be69544fc1d61b1816a288ab0a",
+        "signature": "cee16ba1ceed19a49158422c34a3034bfd57b3be7aedb380fabdfb84cc5c4114",
+        "affectsGlobalScope": false
+      },
+      "../src/bindings/binding_count.ts": {
+        "version": "c7e592b06069ea173b1c981a4d3831d7a25855a665f716611376261aa1a855ad",
+        "signature": "a72080b16a2a17f35dabc47c0010e56ae6f0df408280bdf10e635581201fa68c",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/exceptions.ts": {
+        "version": "a7536d6912429256f1055c6e6a991ef3e1915efda92b74a49747de577f42aaef",
+        "signature": "d9e7db423fe568c606c143349281fa98d9e32d9c09ffa9e23e08b0abf7ef8cfc",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/serialization.ts": {
+        "version": "f960906f192d94956e102ecae33d0fbb831b7f9bcd2a8d12b06496160c13f670",
+        "signature": "afa42792dd7c872de3b8c8f9f0812d56dbab27612073f303321a90f114e788c4",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/context.ts": {
+        "version": "196ee4f71dc47dea6f4194116eb4f57a7cc059c76a844cb294b2e88876c336b5",
+        "signature": "0ab14ec054aacd0c0332c38905aa094cdf271da39cabb1a94edeaa47ef91d4dd",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/metadata.ts": {
+        "version": "28fcfc9d1aca5d5c932298c4a38aa15318f68699e38117c03d0fbe1453968b68",
+        "signature": "0546e3903f01f5446c89781069a774faad96f9454f2d5add598d0e0567f21581",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/plan.ts": {
+        "version": "c304d5cd5a24540fe85c1e43fc9be959feec87e0ffe0ad157fd0bbf407b1433f",
+        "signature": "e57f405eff919c60117732f4fa75161776ffe254762257567c5b961f7eda0aa8",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/lazy_service_identifier.ts": {
+        "version": "08f7ac5fad6b58841f1753dc4de922a1f8320e5ab47c84a789af9228e101417d",
+        "signature": "94c4fbcc493d24eda161eebb3acca7fb141800bbbc4f103af521dfdccb2dfb24",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/queryable_string.ts": {
+        "version": "bd2c4e5d5a505e79033b5b054390d5c216b76d800b91de8fb496d623ec098fad",
+        "signature": "2a0871d803a57381878dd9865637b2a1a0d502dde07b1653eb2a02e458d44cf9",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/target.ts": {
+        "version": "d78ce7fb56e7067110c733eba9e6778d9468037e6dcfe41ccba76bfb54a72ba5",
+        "signature": "624975c2f847710a891b9a3fc6fdae6ca101f525c98a8f80b6f2158889e2cc08",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/reflection_utils.ts": {
+        "version": "13822f1a7eb916034f7fe7fe5f47ed2b7f25b67e3a1ecbf5e655c3cbb5d997c8",
+        "signature": "8556363ca9846e99b800f8d26643523cce4609b4f487635342b5d588d13aead1",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/request.ts": {
+        "version": "00f5f45d3bf4290326f5f9ac4a6b0d4370696279c537aa30886db276645a38e1",
+        "signature": "b6248243196744e22bec57bab9df163f3564d9ceced7b8487c551d9983c6ccf3",
+        "affectsGlobalScope": false
+      },
+      "../src/planning/planner.ts": {
+        "version": "60b51c7b0b634c7e75bfa7eec890d38d76cdb17be212535ff376c90eb04f4272",
+        "signature": "28b1aa93cb0b41db26e728a024c9b3ee299b317ea7fce1d291c54cf9b3e3afff",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/async.ts": {
+        "version": "a42b2ea21654651d001322fe7b6fc4ba77a607cf7b8b5c11d5883467f30508cc",
+        "signature": "c2876e6fa73faaf7806adadaf031dc4ef7397e791a59a629efee772b8588785b",
+        "affectsGlobalScope": false
+      },
+      "../src/scope/scope.ts": {
+        "version": "3f4bd29f8f1ff181d0a946b36a1ef3c5988f2ca76ca6fdb55291aff6f9873d0b",
+        "signature": "22c7a29a245cb9b94b6da8e05aad2ed24f52f9b9853fb20a6fae63a53b0d4cde",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/binding_utils.ts": {
+        "version": "03803fec4347fd7827651f691a14c243b0552fe69b6a322767a5087100fc1e01",
+        "signature": "972228e5fb13c303f69210a4cdf12beda6b13e1ba14005f0d6af66b44aa91f29",
+        "affectsGlobalScope": false
+      },
+      "../src/resolution/instantiation.ts": {
+        "version": "c9215a733abe533d239b779d495b274b48ca2d904965587e483dc6e567c9a788",
+        "signature": "85db18d883062588f588789266cd732c7203857ebb9a7d357e9ce2edfebbe6d8",
+        "affectsGlobalScope": false
+      },
+      "../src/resolution/resolver.ts": {
+        "version": "8301001fc7fee51e591a83c8cd6d270b3a10f6cac36c3d6fec256d7c281a9e61",
+        "signature": "61c1fc8917a25626d55e5ba1cffafc65c47a39b77e896d644244ab8e08eb9740",
+        "affectsGlobalScope": false
+      },
+      "../src/syntax/constraint_helpers.ts": {
+        "version": "39cf09799ea3abe23e5958f14b3bdbd66517e18d6ddafe930fa725f093ecb606",
+        "signature": "f1ac401eba765f8ac51af338b6e89558e74954af4b256e626e9a1c9e6c09b583",
+        "affectsGlobalScope": false
+      },
+      "../src/syntax/binding_when_syntax.ts": {
+        "version": "92a05f45338d4902de9e2e7448f3fcf71f9c5e5ed2fd2b04baa8971f9d5408d7",
+        "signature": "4ad57aa6d8139253b7a8f5bb9bc6d5db8ad3aed698655716e16cc11898d72faa",
+        "affectsGlobalScope": false
+      },
+      "../src/syntax/binding_on_syntax.ts": {
+        "version": "0528665deb7979ebc959cd79f047414c529a1fcb762307993aa5b54aa47d2b1a",
+        "signature": "4461a8cfb6e9db03d4883b51fa115ee295b38cc043b00bcc2193dae91fa5823e",
+        "affectsGlobalScope": false
+      },
+      "../src/syntax/binding_when_on_syntax.ts": {
+        "version": "7a2b1116f199faa661c88a8910f79c528d417396bb7d19530ff1aea85e41d8c6",
+        "signature": "f8ffd476a96758046bb72097564ea99cece38e111ca6f50fb47e9cd30790f0a0",
+        "affectsGlobalScope": false
+      },
+      "../src/syntax/binding_in_syntax.ts": {
+        "version": "277e393de5165663e0bd0f7a1bab9de59deb6c6217b412f30d6a1ab524fbe229",
+        "signature": "72fdb6875b4a976c3d227a54d0284ed10b68d4c1521f0c855bb0bbc7bbd0bb9c",
+        "affectsGlobalScope": false
+      },
+      "../src/syntax/binding_in_when_on_syntax.ts": {
+        "version": "92ba014e8a48fd4f2925e377fbb642d7dc82860110f63c588eff04399ee1d3ff",
+        "signature": "be7a6e301e6defc452ea890f903ffb3427362818ae514c5f5acd03cbb0e0ed17",
+        "affectsGlobalScope": false
+      },
+      "../src/syntax/binding_to_syntax.ts": {
+        "version": "88eb8aba655a6a2fe9063c1511a7a58af77315a0b8ac7e4c99ee31a261317196",
+        "signature": "f6ecf6b3d5f1932900d8f69a12f9ed572e8f12497ca459facf1f30e4eec521bc",
+        "affectsGlobalScope": false
+      },
+      "../src/container/container_snapshot.ts": {
+        "version": "31c3ef62fdf0b4c6e907869a991a4efcae196e5f1b593b71ee8f0d60efc253c2",
+        "signature": "22920556c4448f138676906fcdb384899d44fd5bdfcb57eed68d6df5a29d0bb5",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/clonable.ts": {
+        "version": "192eae2c531e61d40425146776690b07537569e1acb4a719da9642f6bf9f9557",
+        "signature": "4f56b1ab85316b1aee11870c4feb62ed0f4e01ca775be08465096f0dd7c8f4c1",
+        "affectsGlobalScope": false
+      },
+      "../src/container/lookup.ts": {
+        "version": "f5e187c827c63d2aa1aeb55295f12fda597d015be2b8f7e881ba46c73510e2f5",
+        "signature": "14312e874a972fca8353b5fa4a58a805d4e256645cb0713e6ff248cba5ebca81",
+        "affectsGlobalScope": false
+      },
+      "../src/container/module_activation_store.ts": {
+        "version": "b44302f49523d59c39f19581dddb1955553cc938ada8a63fae7ca5f7e643175f",
+        "signature": "4d4373326dcd5b378014286f3ea3088d432808c09d6008fb34501eb54e6bd0eb",
+        "affectsGlobalScope": false
+      },
+      "../src/container/container.ts": {
+        "version": "38d894ecdc221661a6b42c57ba482eb88379ecae24b525343641af74138103ac",
+        "signature": "c5027a9eaa9020305f5dc0230bace9d46940b6ead7d76ed2aa3456a3d94913e4",
+        "affectsGlobalScope": false
+      },
+      "../src/container/container_module.ts": {
+        "version": "ecdf32b4d9bdf600d38fb953721cbb5c974cbe877779e627fa66a04bda77bc73",
+        "signature": "e0b7864866f8fc081f5c683473fe03aad29f0f71bb79be7c059055eed1507509",
+        "affectsGlobalScope": false
+      },
+      "../src/utils/js.ts": {
+        "version": "f5d26e718b989ab405b50fb0727136cde385ceefb6aba6c18a537ecf8adc00a2",
+        "signature": "8e8fba71303d3848bfe81e2d618ab4e92cc626877fd79ca2ad5cbc90ecd7ea63",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/decorator_utils.ts": {
+        "version": "a8024f2aed6c887d070e0b89ca5049e09abbf43234589c511d6c23e3af5a5f94",
+        "signature": "d2087ef474638e25a20390024cb8d3dcdb0b66b9b8104267d03c56de3ff27829",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/injectable.ts": {
+        "version": "8009fe23588fbd79f077ddb72f71a5efd7fb5b316cf4e6cc6a9a55dc5d354998",
+        "signature": "45859fb9c4d683223754b8cdee5ec46b8cba004f7c45c09a5899cc7a67bfa3e0",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/tagged.ts": {
+        "version": "c3411917bdfec6dbe86a52fe763d85e13aaab7d2ccda171d76d2ef6a975e7b01",
+        "signature": "ae6835b82148a62c2281cfdcac4a56c4c429074b9a4ab84e6ab775afb71de952",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/named.ts": {
+        "version": "01b095424c62b606fc89354bac3edf44fe0a6ba25f6780c6cf3ad8faf47221cc",
+        "signature": "c2faba1201687cb45b11c36dbda3f1848c27e559a699257240210775e4958c4a",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/inject_base.ts": {
+        "version": "ba28de349a7a5b0708cb503f81c76707b3ae78102a2645f4db5d3528b9c914cf",
+        "signature": "f2969f181d0e288d1b9d0009f0ac509273fbbeb4988455a680ff7c362ccbca0d",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/inject.ts": {
+        "version": "49e8fd72e562827a28681e15b4d6f678c49c5a902b7acd4ea25be0631582d677",
+        "signature": "8dc71300611f66425cb3d999fc1a7a18fad6d0eb074fcc968d03c17ffb1e5802",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/optional.ts": {
+        "version": "6ab7c71a02ee0034809cbf088fe89edf9e21aa86388f494a651b83fe8a4a5063",
+        "signature": "562fd9661ee8fff71b4c34ac4e0f8950cd000ef7d9d16b4967a8bd8d3b2385fb",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/unmanaged.ts": {
+        "version": "4e0ec789e0550cb8837ce605038331dfc00c1ab6b8a1612b23c4b18cd2a21e50",
+        "signature": "49aee89f31bce1cb23e7ec1e247d5ec81f68d96d9766f39a7e65253e85f39a7c",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/multi_inject.ts": {
+        "version": "bf503c5faf965ddeced77be9353cc13e35f7a3a0d1f1094052aa8490053dca5b",
+        "signature": "bb304e82f14dc83b4f213b0aec7a11c04374596746ce9d61af5a065d13516ca7",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/target_name.ts": {
+        "version": "ba98fe5d873091b336ce093f4e2bf04b733a1549ea815d0ebcd5ba3be06e75dd",
+        "signature": "a56fcab45e752415b9292defe0ba95242c0b71a394570ac72cb8aeaecfc2a0ed",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/property_event_decorator.ts": {
+        "version": "0deb1e6993c2f71e69b1f04ec1045c588c8b59b8aa675f5f2620e71b8495e8e7",
+        "signature": "f40d02ac5573270d95b036a48307a004787ea1ab3dd92f94553ef93f0864f8c5",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/post_construct.ts": {
+        "version": "775564afa1e70b880c8bf4b55a89acad88d34ce90bd3a55cbd285417b29ec022",
+        "signature": "721bda136df7e60c58be48739ea8b48599b9bdec0799baa21f525bd7f317a7bb",
+        "affectsGlobalScope": false
+      },
+      "../src/annotation/pre_destroy.ts": {
+        "version": "171a7c888e41546b5dae2b6232a58f591d0f31773ebe41a3269707e019444e1d",
+        "signature": "e204c13010f77df6086fdf119cfa8da2051fe16c5ad4ddd63cb5bb1e4b6e8eca",
+        "affectsGlobalScope": false
+      },
+      "../src/inversify.ts": {
+        "version": "2edabc69c3307e60f1a291515b30b164f2775ba13da88304438bad472fd75ea2",
+        "signature": "60697cd47cbf34ffa2baa960ef5803c0787ae7da444a3ead3f8f84c916b54687",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/mocha/index.d.ts": {
+        "version": "0359800d3b440f8515001431cde1500944e156040577425eb3f7b80af0846612",
+        "signature": "0359800d3b440f8515001431cde1500944e156040577425eb3f7b80af0846612",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/reflect-metadata/index.d.ts": {
+        "version": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90",
+        "signature": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90",
+        "affectsGlobalScope": true
+      }
+    },
+    "options": {
+      "target": 1,
+      "module": 1,
+      "lib": [
+        "lib.es2015.d.ts",
+        "lib.dom.d.ts"
+      ],
+      "types": [
+        "mocha",
+        "reflect-metadata"
+      ],
+      "moduleResolution": 2,
+      "sourceMap": true,
+      "jsx": 2,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "suppressImplicitAnyIndexErrors": false,
+      "noResolve": false,
+      "noUnusedParameters": false,
+      "noUnusedLocals": true,
+      "strictNullChecks": true,
+      "composite": true,
+      "declaration": true,
+      "outDir": "./",
+      "rootDir": "../src",
+      "project": "../src/tsconfig.json",
+      "configFilePath": "../src/tsconfig.json"
+    },
+    "referencedMap": {
+      "../src/annotation/decorator_utils.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/utils/js.ts"
+      ],
+      "../src/annotation/inject.ts": [
+        "../src/annotation/inject_base.ts",
+        "../src/constants/metadata_keys.ts"
+      ],
+      "../src/annotation/inject_base.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/annotation/lazy_service_identifier.ts",
+        "../src/constants/error_msgs.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/annotation/injectable.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/constants/metadata_keys.ts"
+      ],
+      "../src/annotation/lazy_service_identifier.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/annotation/multi_inject.ts": [
+        "../src/annotation/inject_base.ts",
+        "../src/constants/metadata_keys.ts"
+      ],
+      "../src/annotation/named.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/annotation/optional.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/annotation/post_construct.ts": [
+        "../src/annotation/property_event_decorator.ts",
+        "../src/constants/error_msgs.ts",
+        "../src/constants/metadata_keys.ts"
+      ],
+      "../src/annotation/pre_destroy.ts": [
+        "../src/annotation/property_event_decorator.ts",
+        "../src/constants/error_msgs.ts",
+        "../src/constants/metadata_keys.ts"
+      ],
+      "../src/annotation/property_event_decorator.ts": [
+        "../src/planning/metadata.ts"
+      ],
+      "../src/annotation/tagged.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/annotation/target_name.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/annotation/unmanaged.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/bindings/binding.ts": [
+        "../src/constants/literal_types.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/utils/id.ts"
+      ],
+      "../src/constants/literal_types.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/container/container.ts": [
+        "../src/bindings/binding.ts",
+        "../src/constants/error_msgs.ts",
+        "../src/constants/literal_types.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/container/container_snapshot.ts",
+        "../src/container/lookup.ts",
+        "../src/container/module_activation_store.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/metadata_reader.ts",
+        "../src/planning/planner.ts",
+        "../src/resolution/resolver.ts",
+        "../src/syntax/binding_to_syntax.ts",
+        "../src/utils/async.ts",
+        "../src/utils/id.ts",
+        "../src/utils/serialization.ts"
+      ],
+      "../src/container/container_module.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/utils/id.ts"
+      ],
+      "../src/container/container_snapshot.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/container/lookup.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/utils/clonable.ts"
+      ],
+      "../src/container/module_activation_store.ts": [
+        "../src/container/lookup.ts",
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/interfaces/interfaces.ts": [
+        "../src/utils/factory_type.ts"
+      ],
+      "../src/inversify.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/annotation/inject.ts",
+        "../src/annotation/injectable.ts",
+        "../src/annotation/lazy_service_identifier.ts",
+        "../src/annotation/multi_inject.ts",
+        "../src/annotation/named.ts",
+        "../src/annotation/optional.ts",
+        "../src/annotation/post_construct.ts",
+        "../src/annotation/pre_destroy.ts",
+        "../src/annotation/tagged.ts",
+        "../src/annotation/target_name.ts",
+        "../src/annotation/unmanaged.ts",
+        "../src/constants/literal_types.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/container/container.ts",
+        "../src/container/container_module.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/metadata_reader.ts",
+        "../src/syntax/constraint_helpers.ts",
+        "../src/utils/binding_utils.ts",
+        "../src/utils/id.ts",
+        "../src/utils/serialization.ts"
+      ],
+      "../src/planning/context.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/utils/id.ts"
+      ],
+      "../src/planning/metadata.ts": [
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/metadata_reader.ts": [
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/plan.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/planner.ts": [
+        "../src/bindings/binding_count.ts",
+        "../src/constants/error_msgs.ts",
+        "../src/constants/literal_types.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/context.ts",
+        "../src/planning/metadata.ts",
+        "../src/planning/plan.ts",
+        "../src/planning/reflection_utils.ts",
+        "../src/planning/request.ts",
+        "../src/planning/target.ts",
+        "../src/utils/exceptions.ts",
+        "../src/utils/serialization.ts"
+      ],
+      "../src/planning/queryable_string.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/reflection_utils.ts": [
+        "../src/annotation/lazy_service_identifier.ts",
+        "../src/constants/error_msgs.ts",
+        "../src/constants/literal_types.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/target.ts",
+        "../src/utils/serialization.ts"
+      ],
+      "../src/planning/request.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/utils/id.ts"
+      ],
+      "../src/planning/target.ts": [
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/metadata.ts",
+        "../src/planning/queryable_string.ts",
+        "../src/utils/id.ts",
+        "../src/utils/serialization.ts"
+      ],
+      "../src/resolution/instantiation.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/constants/literal_types.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/metadata.ts",
+        "../src/utils/async.ts"
+      ],
+      "../src/resolution/resolver.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/constants/literal_types.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/planner.ts",
+        "../src/resolution/instantiation.ts",
+        "../src/scope/scope.ts",
+        "../src/utils/async.ts",
+        "../src/utils/binding_utils.ts",
+        "../src/utils/exceptions.ts"
+      ],
+      "../src/scope/scope.ts": [
+        "../src/inversify.ts",
+        "../src/utils/async.ts"
+      ],
+      "../src/syntax/binding_in_syntax.ts": [
+        "../src/constants/literal_types.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/syntax/binding_when_on_syntax.ts"
+      ],
+      "../src/syntax/binding_in_when_on_syntax.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/syntax/binding_in_syntax.ts",
+        "../src/syntax/binding_on_syntax.ts",
+        "../src/syntax/binding_when_syntax.ts"
+      ],
+      "../src/syntax/binding_on_syntax.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/syntax/binding_when_syntax.ts"
+      ],
+      "../src/syntax/binding_to_syntax.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/constants/literal_types.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/syntax/binding_in_when_on_syntax.ts",
+        "../src/syntax/binding_when_on_syntax.ts"
+      ],
+      "../src/syntax/binding_when_on_syntax.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/syntax/binding_on_syntax.ts",
+        "../src/syntax/binding_when_syntax.ts"
+      ],
+      "../src/syntax/binding_when_syntax.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/syntax/binding_on_syntax.ts",
+        "../src/syntax/constraint_helpers.ts"
+      ],
+      "../src/syntax/constraint_helpers.ts": [
+        "../src/constants/metadata_keys.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/utils/binding_utils.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/constants/literal_types.ts",
+        "../src/inversify.ts",
+        "../src/utils/factory_type.ts"
+      ],
+      "../src/utils/clonable.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/utils/exceptions.ts": [
+        "../src/constants/error_msgs.ts"
+      ],
+      "../src/utils/serialization.ts": [
+        "../src/constants/error_msgs.ts",
+        "../src/interfaces/interfaces.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../src/annotation/decorator_utils.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/annotation/inject.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/annotation/lazy_service_identifier.ts"
+      ],
+      "../src/annotation/inject_base.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/annotation/lazy_service_identifier.ts"
+      ],
+      "../src/annotation/lazy_service_identifier.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/annotation/multi_inject.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/annotation/lazy_service_identifier.ts"
+      ],
+      "../src/annotation/named.ts": [
+        "../src/annotation/decorator_utils.ts"
+      ],
+      "../src/annotation/optional.ts": [
+        "../src/annotation/decorator_utils.ts"
+      ],
+      "../src/annotation/tagged.ts": [
+        "../src/annotation/decorator_utils.ts"
+      ],
+      "../src/annotation/target_name.ts": [
+        "../src/annotation/decorator_utils.ts"
+      ],
+      "../src/annotation/unmanaged.ts": [
+        "../src/annotation/decorator_utils.ts"
+      ],
+      "../src/bindings/binding.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/constants/literal_types.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/container/container.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/container/container_module.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/container/container_snapshot.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/container/lookup.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/container/module_activation_store.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/interfaces/interfaces.ts": [
+        "../src/utils/factory_type.ts"
+      ],
+      "../src/inversify.ts": [
+        "../src/annotation/decorator_utils.ts",
+        "../src/annotation/inject.ts",
+        "../src/annotation/injectable.ts",
+        "../src/annotation/lazy_service_identifier.ts",
+        "../src/annotation/multi_inject.ts",
+        "../src/annotation/named.ts",
+        "../src/annotation/optional.ts",
+        "../src/annotation/post_construct.ts",
+        "../src/annotation/pre_destroy.ts",
+        "../src/annotation/tagged.ts",
+        "../src/annotation/target_name.ts",
+        "../src/annotation/unmanaged.ts",
+        "../src/constants/literal_types.ts",
+        "../src/constants/metadata_keys.ts",
+        "../src/container/container.ts",
+        "../src/container/container_module.ts",
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/metadata_reader.ts",
+        "../src/syntax/constraint_helpers.ts",
+        "../src/utils/binding_utils.ts",
+        "../src/utils/id.ts",
+        "../src/utils/serialization.ts"
+      ],
+      "../src/planning/context.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/metadata.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/metadata_reader.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/plan.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/planner.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/queryable_string.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/reflection_utils.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/utils/serialization.ts"
+      ],
+      "../src/planning/request.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/planning/target.ts": [
+        "../src/interfaces/interfaces.ts",
+        "../src/planning/metadata.ts"
+      ],
+      "../src/resolution/instantiation.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/resolution/resolver.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/scope/scope.ts": [
+        "../src/inversify.ts"
+      ],
+      "../src/syntax/binding_in_syntax.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/syntax/binding_in_when_on_syntax.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/syntax/binding_on_syntax.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/syntax/binding_to_syntax.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/syntax/binding_when_on_syntax.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/syntax/binding_when_syntax.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/syntax/constraint_helpers.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/utils/binding_utils.ts": [
+        "../src/inversify.ts"
+      ],
+      "../src/utils/clonable.ts": [
+        "../src/interfaces/interfaces.ts"
+      ],
+      "../src/utils/serialization.ts": [
+        "../src/interfaces/interfaces.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@types/mocha/index.d.ts",
+      "../node_modules/reflect-metadata/index.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../src/annotation/decorator_utils.ts",
+      "../src/annotation/inject.ts",
+      "../src/annotation/inject_base.ts",
+      "../src/annotation/injectable.ts",
+      "../src/annotation/lazy_service_identifier.ts",
+      "../src/annotation/multi_inject.ts",
+      "../src/annotation/named.ts",
+      "../src/annotation/optional.ts",
+      "../src/annotation/post_construct.ts",
+      "../src/annotation/pre_destroy.ts",
+      "../src/annotation/property_event_decorator.ts",
+      "../src/annotation/tagged.ts",
+      "../src/annotation/target_name.ts",
+      "../src/annotation/unmanaged.ts",
+      "../src/bindings/binding.ts",
+      "../src/bindings/binding_count.ts",
+      "../src/constants/error_msgs.ts",
+      "../src/constants/literal_types.ts",
+      "../src/constants/metadata_keys.ts",
+      "../src/container/container.ts",
+      "../src/container/container_module.ts",
+      "../src/container/container_snapshot.ts",
+      "../src/container/lookup.ts",
+      "../src/container/module_activation_store.ts",
+      "../src/interfaces/interfaces.ts",
+      "../src/inversify.ts",
+      "../src/planning/context.ts",
+      "../src/planning/metadata.ts",
+      "../src/planning/metadata_reader.ts",
+      "../src/planning/plan.ts",
+      "../src/planning/planner.ts",
+      "../src/planning/queryable_string.ts",
+      "../src/planning/reflection_utils.ts",
+      "../src/planning/request.ts",
+      "../src/planning/target.ts",
+      "../src/resolution/instantiation.ts",
+      "../src/resolution/resolver.ts",
+      "../src/scope/scope.ts",
+      "../src/syntax/binding_in_syntax.ts",
+      "../src/syntax/binding_in_when_on_syntax.ts",
+      "../src/syntax/binding_on_syntax.ts",
+      "../src/syntax/binding_to_syntax.ts",
+      "../src/syntax/binding_when_on_syntax.ts",
+      "../src/syntax/binding_when_syntax.ts",
+      "../src/syntax/constraint_helpers.ts",
+      "../src/utils/async.ts",
+      "../src/utils/binding_utils.ts",
+      "../src/utils/clonable.ts",
+      "../src/utils/exceptions.ts",
+      "../src/utils/factory_type.ts",
+      "../src/utils/id.ts",
+      "../src/utils/js.ts",
+      "../src/utils/serialization.ts"
+    ]
+  },
+  "version": "4.2.4"
+}
